@@ -1,10 +1,6 @@
 # 每日早安推送给别人家的女朋友
 
-{{date.DATA}} 
-地区：{{region.DATA}} 
-天气：{{weather.DATA}} 
-气温：{{temp.DATA}} 
-风向：{{wind_dir.DATA}} 
+今日天气：{{weather.DATA}} 当前温度：{{temperature.DATA}} {{words.DATA}}
 
 项目来源：https://github.com/rxrw/daily_morning
 
