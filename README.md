@@ -1,6 +1,13 @@
 # 每日早安推送给别人家的女朋友
 
+{{date.DATA}} 
+地区：{{region.DATA}} 
+天气：{{weather.DATA}} 
+气温：{{temp.DATA}} 
+风向：{{wind_dir.DATA}} 
+
 项目来源：https://github.com/rxrw/daily_morning
+
 ---------------------- 以下是正文 ----------------------
 
 在我刚想构思这个教程怎么让不懂编程的朋友很快入门的时候，我考虑到：避免服务器搭建，避免定时任务，避免接触代码。在经历过各种思考后，觉得可以用 Github Actions 来白嫖。。
